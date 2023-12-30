@@ -12,6 +12,7 @@ Just send your friend this link:
 [https://estech321.github.io/CAPTCHA-RickRoll/](https://estech321.github.io/CAPTCHA-RickRoll/)
 Or, to be less suspicious, use this shortened URL:
 [http://tinyurl.com/ywsxwu23](http://tinyurl.com/ywsxwu23)
+Here's a video showing haw it works: [https://youtu.be/dQw4w9WgXcQ](https://youtu.be/dQw4w9WgXcQ)
 
 ## Copyrighting
 I am not placing this code under any liscense, especially because it contains other companies' brand names. That means you shouldn't, either. Feel free to fork it, change the code how you like, change the URL that appears onscreen, etc. I just ask you not to claim ownership and for you to mention me in your READMEs.
