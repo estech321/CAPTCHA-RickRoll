@@ -1,6 +1,9 @@
 # CAPTCHA Rick Roll
 This is a simple website that pretends to be a Cloudflare Turnstyle (similar to a reCAPTCHA) and ask you to verify you are human. Once the verify button is clicked, it redirects you to the Rick Roll.
 
+## What it looks like
+![Image of the Rickroll turnstile](example.jpeg)
+
 ## Why?
 Many messaging applications, such as Gmail, iMessage, and more give previews of links. If you texted your friend a direct link to the rick roll, or even a shortened URL, it would show them a preview thumbnail and the surprise would be ruined. This page requires the user to manually click a button that sends them to the rickroll.
 
